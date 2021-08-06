@@ -517,7 +517,7 @@ local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/RaylasHu
 UI WINDOWS
 ]]
 
-local FluxWindow = Flux:Window("talut sbr carry", "", Color3.fromRGB(200, 200, 200), Enum.KeyCode.RightAlt)
+local FluxWindow = Flux:Window("Rayla's Hub", "", Color3.fromRGB(102, 0, 153), Enum.KeyCode.RightAlt)
 
 --[[
 UI TABS
