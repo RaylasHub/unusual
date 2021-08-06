@@ -517,7 +517,7 @@ local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/Screamer
 UI WINDOWS
 ]]
 
-local FluxWindow = Flux:Window("Rayla's Hub", "", Color3.fromRGB(12, 12, 12), Enum.KeyCode.RightAlt)
+local FluxWindow = Flux:Window("dont ban me mui", "", Color3.fromRGB(200, 200, 200), Enum.KeyCode.RightAlt)
 
 --[[
 UI TABS
