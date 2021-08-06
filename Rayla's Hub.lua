@@ -511,7 +511,7 @@ end
 UI LOADING
 ]]
 
-local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/ScreamerUWU/ScreamerHUB/main/Games/YBA/HUB/Legacy/Flux.lua"))()
+local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/RaylasHub/flex/main/Rayla's%20Flex.lua"))()
 
 --[[
 UI WINDOWS
@@ -523,11 +523,11 @@ local FluxWindow = Flux:Window("talut sbr carry", "", Color3.fromRGB(200, 200, 2
 UI TABS
 ]]
 
-local FluxTabAutoDrop = FluxWindow:Tab("Auto Drop", "http://www.roblox.com/asset/?id=6031075939")
-local FluxTabAutoSell = FluxWindow:Tab("Auto Sell", "http://www.roblox.com/asset/?id=6031086173")
-local FluxTabStandFarm = FluxWindow:Tab("Stand Farm", "http://www.roblox.com/asset/?id=6031086183")
-local FluxTabCount = FluxWindow:Tab("Item Counter", "http://www.roblox.com/asset/?id=6031289444")
-local FluxTabMISC = FluxWindow:Tab("Misc", "http://www.roblox.com/asset/?id=6031086170")
+local FluxTabAutoDrop = FluxWindow:Tab("Auto Drop", "")
+local FluxTabAutoSell = FluxWindow:Tab("Auto Sell", "")
+local FluxTabStandFarm = FluxWindow:Tab("Stand Farm", "")
+local FluxTabCount = FluxWindow:Tab("Item Counter", "")
+local FluxTabMISC = FluxWindow:Tab("Misc", "")
 
 --[[
 AUTO DROP FUNCTIONS
